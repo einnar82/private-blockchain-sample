@@ -70,7 +70,7 @@ go-ethereum/build/bin/puppeth
 ```
 
 **Export Genesis**
-(Tutorial link)[https://arctouch.com/blog/how-to-set-up-ethereum-blockchain/]
+[Tutorial link](https://arctouch.com/blog/how-to-set-up-ethereum-blockchain/)
 
 ### Init Nodes
 ```
